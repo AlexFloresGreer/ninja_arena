@@ -1,0 +1,40 @@
+*{
+ margin: 0px; auto;
+ padding: 0px;
+ font-family: "Tahoma";
+}
+
+#wrapper{
+	width: 960px;
+	margin: 0px auto;
+	padding: 25px;
+	border:grey solid;
+}
+
+
+#selector_box h1{
+	text-align: center
+	
+}
+
+#selectors{
+	border:grey solid;
+	width: 275px;
+	margin-left: 337px;
+	margin-top: 50px;
+
+
+}
+
+	#selectors .location{
+		text-align: center;
+		display: inline-block;
+		vertical-align: top;
+		border:grey solid;
+
+		/*padding: 10px;*/
+		margin: 10px;
+		width:104px;
+		height:55px;
+	}
+
