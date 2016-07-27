@@ -9,6 +9,7 @@
 	margin: 0px auto;
 	padding: 25px;
 	border:grey solid;
+	background-color: purple;
 }
 
 
@@ -22,6 +23,7 @@
 	width: 275px;
 	margin-left: 337px;
 	margin-top: 50px;
+
 
 
 }
@@ -38,7 +40,7 @@
 		height:55px;
 	}
 
-button{
+button {
 	background-color: pink;
 	color: white;
 }
